@@ -1,0 +1,17 @@
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\bin\Debug\ZZ IDE.exe.config
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\bin\Debug\ZZ IDE.exe
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\bin\Debug\ZZ IDE.pdb
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\bin\Debug\FastColoredTextBox.dll
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\obj\Debug\ZZ IDE.csprojAssemblyReference.cache
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\obj\Debug\ZZ_IDE.Form1.resources
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\obj\Debug\ZZ_IDE.Properties.Resources.resources
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\obj\Debug\ZZ IDE.csproj.GenerateResource.cache
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\obj\Debug\ZZ IDE.csproj.CoreCompileInputs.cache
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\obj\Debug\ZZ IDE.csproj.CopyComplete
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\obj\Debug\ZZ IDE.exe
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\obj\Debug\ZZ IDE.pdb
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\obj\Debug\ZZ_IDE.Form2.resources
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\bin\Debug\ZZ IDE.exe.manifest
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\bin\Debug\ZZ IDE.application
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\obj\Debug\ZZ IDE.exe.manifest
+E:\이지완\코딩\c#\ZZ IDE\ZZ IDE\obj\Debug\ZZ IDE.application
