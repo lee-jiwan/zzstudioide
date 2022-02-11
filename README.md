@@ -1,8 +1,6 @@
 #  개요
 이 IDE는 쉽고 강력하고 가볍게 개발을 할 수 있는
 ZZ Studio의 오픈소스 IDE입니다.
-<br>
-자세한 정보는  https://sourceforge.net/projects/zzide/ 에서 확인하실 수 있습니다.
 
 # 오픈소스 사용법
 git clone https://github.com/jiwani840/zzstudioide.git
